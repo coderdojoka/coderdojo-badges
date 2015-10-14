@@ -13,7 +13,9 @@ Momentan sind folgende Badges enthalten
 | Top Scratcher 	  | |
 
 ## Logo und Font
-Die Badges enthalten das CoderDojo-Logo entsprechend der [CoderDojo Logo and Brand Guidelines](https://coderdojo.com/start-a-dojo/coderdojo-logo/). Das Logo ist unter der [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/) veröffentlicht. Die verwendeten Font ist [League Gothic](http://www.fontsquirrel.com/fonts/league-gothic).
+Die Badges enthalten das CoderDojo-Logo entsprechend der [CoderDojo Logo and Brand Guidelines](https://coderdojo.com/start-a-dojo/coderdojo-logo/). 
+Das Logo ist unter der [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/) veröffentlicht. 
+Die verwendete Font ist [League Gothic](http://www.fontsquirrel.com/fonts/league-gothic).
 
 ## Lizenz
 
